@@ -8,7 +8,7 @@ Primeiro portifolio utilizando HTML e CSS.
 #HTML
 #CSS
 
-#Aprendizado do projeto 
+# Aprendizado do projeto 
 
 #alinhamento utilizando de itens. 
 
