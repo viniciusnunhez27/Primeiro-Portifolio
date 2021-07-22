@@ -14,9 +14,10 @@ Primeiro portifolio utilizando HTML e CSS.
 
 #Utilização de background.
 
-#Utilizando Várivel no CSS. 
+#Utilizando Várivel no CSS
 
 #Importação de Fontes do google
+
 
 
 
